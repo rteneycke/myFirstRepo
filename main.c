@@ -69,3 +69,4 @@ char myFileName[10]="jump.txt";
 	return 0;
 }
 
+fuck the shit
